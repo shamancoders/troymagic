@@ -1,0 +1,11 @@
+// remove this line and rename this filename to "config.json"
+{
+  "name": "troymagic",
+  "version": "1.0.0",
+  "description": "Remote connector application",
+  "server":{
+    "url":"api.****.com"
+  },
+  "id":"*********",
+  "password":"****"
+}
