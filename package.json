@@ -11,12 +11,18 @@
   "dependencies": {
     "atob": "^2.1.2",
     "btoa": "^1.2.1",
+    "colors": "^1.4.0",
     "eval": "^0.1.8",
+    "mongodb": "^4.7.0",
+    "mssql": "^8.1.2",
     "mysql": "^2.18.1",
+    "node-cmd": "^5.0.0",
     "node-cron": "^3.0.1",
     "pg": "^8.7.3",
+    "read-excel-file": "^5.4.2",
     "socket.io-client": "^4.5.1",
     "use-strict": "^1.0.1",
-    "uuid": "^8.3.2"
+    "uuid": "^8.3.2",
+    "write-excel-file": "^1.4.8"
   }
 }
